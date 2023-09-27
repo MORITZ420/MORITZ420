@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MORITZ420</h1>
 <h3 align="center">Im a developer from Munich</h3>
 
-<h3 align="left">Connect with me: krugmoritz@icloud.com</h3>
 <p align="left">
 </p>
 
